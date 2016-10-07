@@ -1,4 +1,4 @@
-# svg-fonts
+# SVG's and Webfonts
 A repository of our custom svg/font assets
 
 ### SVG's
